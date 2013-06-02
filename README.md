@@ -8,7 +8,7 @@ All validators are tested by unit tests.
 
 Example 
 ----
- 
+``` 
 'validators' => array(
     array('name' => 'User\Form\Validator\PasswordComplexity',
           'options' => array (
@@ -29,7 +29,7 @@ Example
           )
     )
 )
-
+```
 
 Requirements
 ----
